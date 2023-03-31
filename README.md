@@ -2,6 +2,8 @@
 
 I'm James
 
+Aspiring software engineer with a passion for AI and expertise in Java and MySQL. When not coding, I enjoy volunteering, sports, reading, and teaching others.
+
 <!--
 **j-escartin/j-escartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
