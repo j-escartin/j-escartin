@@ -2,7 +2,12 @@
 
 I'm James
 
-I am an aspiring software engineer with a passion for AI and expertise in Java and MySQL. When not coding, I enjoy volunteering, sports, reading, and teaching others.
+Enthusiast and Innovative, currently taking an Applied Degree in Software Engineering at Lithan Academy Singapore.
+Won a Bronze Medal in Mechatronics in Philippine National Skills Competition. With over a year of learning in
+Software Engineering and Full Stack Development, became proficient in Java, and related frameworks like Spring MVC,
+Spring Boot, and Spring Security. Well-versed in HTML, CSS, JavaScript, and frameworks like Bootstrap, ReactJS,
+AngularJS, and Node. Eager to learn new technologies and looking for a company that challenges technical expertise
+while providing attractive career opportunities.
 
 <!--
 **j-escartin/j-escartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
