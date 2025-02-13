@@ -1,25 +1,19 @@
-### Hi there 👋
+### Heheey 👋
 
-I'm James
+Software engineer and writer.😃
 
-Enthusiast and Innovative, currently taking an Applied Degree in Software Engineering at Lithan Academy Singapore.
-Won a Bronze Medal in Mechatronics in Philippine National Skills Competition. With over a year of learning in
-Software Engineering and Full Stack Development, became proficient in Java, and related frameworks like Spring MVC,
-Spring Boot, and Spring Security. Well-versed in HTML, CSS, JavaScript, and frameworks like Bootstrap, ReactJS,
-AngularJS, and Node. Eager to learn new technologies and looking for a company that challenges technical expertise
-while providing attractive career opportunities.
+I'm still a noob in both fields 🤡 But  definitely improving either through  writing and building from scratch.
 
-<!--
-**j-escartin/j-escartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏋️‍♂️Expect  me to ramp up starting now
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Anime 🙈
+
+I love watching it
+
+My favorite one? One Piece ☠️
+
+<hr style="border:none; height: 1px; background-color:lightgray;">
+
+![One Piece](one-piece.png)
