@@ -8,12 +8,12 @@ I'm still a noob in both fields 🤡 But  definitely improving either through  w
 
 ---
 
-### Anime 🙈
+### Another Hobby? 🛠️
 
-I love watching it
+I love watching anime 🙈
 
 My favorite one? One Piece ☠️
 
-<hr style="border:none; height: 1px; background-color:lightgray;">
+---
 
 ![One Piece](one-piece.png)
